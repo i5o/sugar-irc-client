@@ -1,0 +1,9 @@
+[Activity]
+name = IRC
+bundle_id = org.sugarlabs.irc
+exec = sugar-activity activity.IRC
+icon = activity-icon
+activity_version = 1
+show_launcher = yes
+license = GPLv2+
+summary = IRC (Internet Relay Chat)
